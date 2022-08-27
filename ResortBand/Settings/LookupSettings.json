@@ -1,0 +1,19 @@
+{
+  "settings": [
+    {
+      "id": 0,
+      "corefilepath": "C:\\Users\\andro\\source\\repos\\ResortBand\\ResortBand\\",
+      "corefile": "guest",
+      "corefiletype": "json",
+      "accountfilepath": "C:\\Users\\andro\\source\\repos\\ResortBand\\ResortBand\\Account\\",
+      "accountfile": "Account",
+      "accountfiletype": "json",
+      "attractionfilepath": "C:\\Users\\andro\\source\\repos\\ResortBand\\ResortBand\\Attractions\\",
+      "attractionfile": "Attractions",
+      "attractionfiletype": "json",
+      "fastpassfilepath": "C:\\Users\\andro\\source\\repos\\ResortBand\\ResortBand\\Fastpasses\\",
+      "fastpassfile": "Fastpass",
+      "fastpassfiletype": "json"
+    }
+  ]
+}

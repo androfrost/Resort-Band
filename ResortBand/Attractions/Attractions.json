@@ -1,0 +1,29 @@
+{
+  "attraction": [
+    {
+      "attractionid": 1,
+      "attractionname": "Jungle Cruise",
+      "attractiondesc": "Set sail on a hilarious cruise through the most famous rivers of the world!"
+    },
+    {
+      "attractionid": 2,
+      "attractionname": "Tiki Room",
+      "attractiondesc": ""
+    },
+    {
+      "attractionid": 3,
+      "attractionname": "Swiss Family Robinson Tree House",
+      "attractiondesc": "Climb up into the sky to see where the family Robinson built their home"
+    },
+    {
+      "attractionid": 4,
+      "attractionname": "Pirates of the Caribbean",
+      "attractiondesc": ""
+    },
+    {
+      "attractionid": 5,
+      "attractionname": "Splash Mountain",
+      "attractiondesc": "Get ready for a trip down the river as Brer Rabbit and friends have a zip-itty-do-da-day!"
+    }
+  ]
+}

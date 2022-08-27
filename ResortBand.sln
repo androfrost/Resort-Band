@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResortBand", "ResortBand\ResortBand.csproj", "{7EAFB29B-75B2-4060-AB19-43C3E2F9FBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EAFB29B-75B2-4060-AB19-43C3E2F9FBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EAFB29B-75B2-4060-AB19-43C3E2F9FBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EAFB29B-75B2-4060-AB19-43C3E2F9FBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EAFB29B-75B2-4060-AB19-43C3E2F9FBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FC1CD2-B44D-4534-8EA0-0A08A38E48E8}
+	EndGlobalSection
+EndGlobal
